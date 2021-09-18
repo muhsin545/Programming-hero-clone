@@ -1,0 +1,227 @@
+body{
+    overflow-x: hidden;
+font-family: "Poppins","Hind Siliguri",sans-serif;
+    
+}
+.logo{
+    width: 100%;
+    padding-left: 35px;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+.class{
+    font-size: 20px;
+}
+.myClass {
+    font-size: 20px;
+    text-decoration: none; 
+}
+.navcolor{
+    background-color:#5a00dd ;
+}
+.bgColor{
+   background: linear-gradient(
+180deg,#684efb .01%,#5a00dd 100.01%);
+}
+.googleFont h1{
+    font-family: Poppins;
+    font-style: normal;
+    color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+}
+.googleFont p{
+        font-size: 16px;
+        color: #fff;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #3c4b64;
+    text-align: center;
+    vertical-align: middle;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-danger{
+        background: linear-gradient(
+335.64deg,#ff589b -19.22%,#ff136f 118.87%);
+    color: #fff;
+    border: none;
+}
+.francy-btn{
+    border-radius: 40px!important;
+    position: relative;
+    white-space: nowrap;
+    padding: 15px 65px 15px 42px!important;
+}
+
+.francy-btn:after {
+    content: "\f061";
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    height: 42px;
+    width: 42px;
+    background: #fff;
+    color: #f94f4f;
+    border-radius: 50%;
+    display: block;
+    font-size: 1.4em;
+    padding-top: 6px;
+}
+
+
+.btn:hover{
+    background-image:linear-gradient(
+        335.64deg,#ff136f -19.22%,#ff589b 118.87%);
+}
+.button{
+    background-color:#d65a8c;
+}
+#nextBatch{
+    margin: 20px auto;
+    width: 75%;
+    background-color: white;
+    border:2px solid rgb(248, 248, 248);;
+    border-radius: 20px;
+    box-shadow:0px 3px 20px gray;
+}
+#course{
+   margin-top: 350px;
+   margin-bottom: 40px;
+   text-align: center;
+}
+.icon{
+    color: tomato;
+    font-size: 25px;
+}
+.bg-primary{
+    width: fit-content;
+    border-radius: 30px;
+    background: linear-gradient(
+45deg,#5a00dd,#684efb);
+}
+.rg{
+    width: auto;
+    background: linear-gradient(
+        180deg,#684efb .01%,#5a00dd 100.01%);
+    border-radius: 10px;
+}
+.bangla{
+     font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000;
+}
+.imgDiv{
+    border:2px solid white;
+    border-radius: 10px;
+    box-shadow: 0px 3px 15px rgb(180, 176, 176);
+}
+.fullDiv{
+    border:2px solid white;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 3px 15px rgb(151, 146, 146);
+    height: fit-content;
+    width: auto;
+}
+.accordion{
+    color: white;
+    background: linear-gradient(
+180deg,#684efb .01%,#5a00dd 100.01%);
+border-radius: 10px;
+}
+
+.instructor{
+    background-color: rgb(255, 255, 255);
+}
+.ankor{
+    text-decoration: none;
+    color: white;
+}
+#FontAwesome{
+    color: white;
+    font-size: xx-large;
+    padding: 5px;
+}
+.ankor:hover{
+    text-decoration:underline;
+color: white;
+}
+#courseInformation{
+    width: auto;
+    padding: 30px;
+    height: auto;
+    background-color: #f5f7ff!important;
+}
+#courseDetail{
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+    background:#fff;
+    border-radius: 13px;
+}
+.cardsRadias{
+        box-shadow: 0 30px 80px 0 rgb(55 84 170 / 10%);
+    border-radius: 16px!important;
+}
+.card-body{
+    padding: 0 10px;
+    text-align: left;
+    font-family: "Poppins","Hind Siliguri";
+}
+.cardImg{
+    width: 70px;
+    height: auto;
+}
+.details{
+    color: #ff136f!important;
+}
+#courseInformation{
+margin: 0 auto;
+text-align: center;
+
+}
+.information{
+    padding-top: 100px;
+    max-width: 564px;
+    background-color: #ffffff;
+    border: 2px solid #fff;
+    box-shadow: 0 5.64912px 14.1228px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    
+}
+.starIcon1{
+    font-size: 45px;
+    color:rgb(255, 19, 111);
+}
+.starIcon2{
+    font-size: 45px;
+    color:gray;
+}
+#detailCourseImage{
+   background-color: #fff;
+    border-radius: 16px;
+   box-shadow: 0 4px 20px rgba(0,0,0,.1)!important;
+}
+.imgBorder{
+    border-radius: 14px;
+}
+.module{
+    width: 575px;
+    height: 400px;
+    overflow-y: scroll;
+}
