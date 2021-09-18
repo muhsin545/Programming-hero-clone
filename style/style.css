@@ -140,9 +140,7 @@ font-family: "Poppins","Hind Siliguri",sans-serif;
 }
 .accordion{
     color: white;
-    background: linear-gradient(
-180deg,#684efb .01%,#5a00dd 100.01%);
-border-radius: 10px;
+    background: linear-gradient(180deg,#684efb .01%,#5a00dd 100.01%);
 }
 
 .instructor{
